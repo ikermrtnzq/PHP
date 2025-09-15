@@ -1,2 +1,2 @@
 # PHP
-Practicas realizadas en PHP
+PHP EXERCISES
